@@ -25,7 +25,7 @@ pip install -r requirements.txt
 Initialise the Source file:
 
 ```bash
-source ~/.project_command
+source ~/.project_command.sh
 ```
 
 
